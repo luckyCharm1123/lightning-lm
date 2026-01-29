@@ -1,6 +1,6 @@
 # Lightning-LM SLAM System
 
-基于 Faster-LIO 的 SLAM 系统，支持 Livox Mid360 LiDAR 的在线建图与定位。
+基于 Faster-LIO 的 SLAM 系统，**已完成对 Livox Mid360 LiDAR 的完整适配与优化**，支持在线建图与定位。
 
 ## ⚠️ 克隆注意事项
 
@@ -30,6 +30,7 @@ cd /home/ubuntu22/Desktop/lightning-lm
 
 ## 📋 主要功能
 
+- ✅ **已完成 Livox Mid360 LiDAR 完整适配**
 - ✅ 在线 SLAM 建图
 - ✅ 离线点云地图构建
 - ✅ 在线定位
