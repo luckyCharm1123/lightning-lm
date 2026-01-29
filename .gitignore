@@ -1,0 +1,44 @@
+# Build directories
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled Object files
+*.o
+*.a
+
+# Logs
+*.log
+
+# Claude Code
+.claude/
+.eskill-meta.json
+
+# OS
+.DS_Store
+Thumbs.db
